@@ -1,9 +1,9 @@
 # Horiseon 
 
-## Description
-
 A baseline refractoring of a previously existing webpage to enhance accessibility and search engine optimization. 
 
+### Usage
+https://itsjustpeachy.github.io/horiseon-refractor/
 ## License
 
 MIT License
